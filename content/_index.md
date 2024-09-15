@@ -155,10 +155,7 @@ sections:
               - Developed experimental environments for robotic arms using MuJoCo simulation platform
               - Proposed a transformer-based model for detecting collisions in robotic arms without external sensors, relying on joint position and torque controller
 
-              * Operating System (CSE301-01, Spring Sem. 2022.) 
-              * Robot Programming (SWCON331-00, Fall Sem. 2022.)
-              * Web/Python Programming (SWCON104-01, Spring \& Fall Sem. 2023.)
-              * Reinforcement Learning (SWCON495-00, Fall Sem. 2024.)
+              ``` ROS 1 / MuJoCo / PyTorch ```
         - title: Teaching Assistant
           company: Dept. Software, Gachon University
           company_url: 'http://gachon.ac.kr/'
