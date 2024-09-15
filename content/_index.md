@@ -152,7 +152,8 @@ sections:
           date_start: '2023-12-23'
           date_end: '2024-02-29'
           description: |2-
-              Subjects include:
+              - Developed experimental environments for robotic arms using MuJoCo simulation platform
+              - Proposed a transformer-based model for detecting collisions in robotic arms without external sensors, relying on joint position and torque controller
 
               * Operating System (CSE301-01, Spring Sem. 2022.) 
               * Robot Programming (SWCON331-00, Fall Sem. 2022.)
