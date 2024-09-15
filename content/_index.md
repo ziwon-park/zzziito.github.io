@@ -164,8 +164,12 @@ sections:
           date_start: '2022-04-19'
           date_end: '2022-08-05'
           description: |2-
-              - Conducted research on outdoor mobile visual SLAM (Simultaneous Localization and Mapping)
-              - Focused on enhancing accuracy and reliability of visual navigation for mobile robots
+              Responsibilities include:
+
+              * CAD Development Team
+              * 3D Model Visualization
+              
+              ``` C++ / VTK / Linear Algebra / Geometry ```
     design:
       columns: '2'
 
