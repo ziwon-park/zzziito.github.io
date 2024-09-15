@@ -144,20 +144,17 @@ sections:
               - Developed monitoring applications for robot experiments 
               
               ``` PyTorch / Deep Learning / Probabilistics / Linear Algebra ```
-        - title: Teaching Assistant
-          company: Dept. Software Convergence, Kyung Hee University
-          company_url: 'https://www.khu.ac.kr'
+        - title: Intern
+          company: ROBROS
+          company_url: 'https://robros.co.kr/'
           company_logo: ROBROS
-          location: Yongin-si, Republic of Korea
-          date_start: '2022-03-02'
-          date_end: ''
+          location: Seoul, Republic of Korea
+          date_start: '2023-12-23'
+          date_end: '2024-02-29'
           description: |2-
-              Subjects include:
+              - Developed experimental environments for robotic arms using MuJoCo simulation platform
+              - Proposed a transformer-based model for detecting collisions in robotic arms  without external sensors, relying on joint position and torque controllers
 
-              * Operating System (CSE301-01, Spring Sem. 2022.) 
-              * Robot Programming (SWCON331-00, Fall Sem. 2022.)
-              * Web/Python Programming (SWCON104-01, Spring \& Fall Sem. 2023.)
-              * Reinforcement Learning (SWCON495-00, Fall Sem. 2024.)
         - title: Teaching Assistant
           company: Dept. Software, Gachon University
           company_url: 'http://gachon.ac.kr/'

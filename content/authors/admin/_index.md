@@ -25,7 +25,7 @@ superuser: true
 #     url: http://airlab.khu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and neural representation learning.
+bio: My research interests include perception for robust off-road mobile robot
 
 # Interests to show in About widget
 interests:
@@ -100,16 +100,16 @@ social:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=oXoHwFMAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=W2br9IoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/nda111
+    link: https://github.com/zzziito
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ghyeok-vision/
+    link: https://www.linkedin.com/in/zzziito/
   - icon: youtube
     icon_pack: fab
-    link: https://youtube.com/playlist?list=PL2KPL4vjU2K_lpSk9b0Z0RO214t1cebKa&si=_L69DHKaHjEazAbg
+    link: https://youtube.com/@zzziito
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
