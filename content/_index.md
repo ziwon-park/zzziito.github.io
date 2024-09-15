@@ -144,18 +144,34 @@ sections:
               - Developed monitoring applications for robot experiments 
               
               ``` ROS1 / ROS2 / RKNN / gRPC / MQTT / CMake / Flutter  ```
-        - title: Intern
-          company: ROBROS
-          company_url: 'https://robros.co.kr/'
+        - title: Teaching Assistant
+          company: Dept. Software Convergence, Kyung Hee University
+          company_url: 'https://www.khu.ac.kr'
           company_logo: ROBROS
           location: Yongin-si, Republic of Korea
-          date_start: '2023-12-23'
-          date_end: '2024-02-29'
+          date_start: '2022-03-02'
+          date_end: ''
           description: |2-
-              - Developed experimental environments for robotic arms using MuJoCo simulation platform
-              - Proposed a transformer-based model for detecting collisions in robotic arms  without external sensors, relying on joint position and torque controllers
+              Subjects include:
 
-              ``` ROS 1 / MuJoCo / PyTorch   ```
+              * Operating System (CSE301-01, Spring Sem. 2022.) 
+              * Robot Programming (SWCON331-00, Fall Sem. 2022.)
+              * Web/Python Programming (SWCON104-01, Spring \& Fall Sem. 2023.)
+              * Reinforcement Learning (SWCON495-00, Fall Sem. 2024.)
+        - title: Internship Student
+          company: DDS
+          company_url: 'http://www.aegisdds.com/'
+          company_logo: ROBROS
+          location: Geumcheon-gu, Seoul, Republic of Korea
+          date_start: '2020-07-01'
+          date_end: '2020-08-31'
+          description: |2-
+              Responsibilities include:
+
+              * CAD Development Team
+              * 3D Model Visualization
+              
+              ``` C++ / VTK / Linear Algebra / Geometry ```
     design:
       columns: '2'
 
