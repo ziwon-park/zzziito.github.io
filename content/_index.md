@@ -165,7 +165,7 @@ sections:
           date_end: '2022-08-05'
           description: |2-
               - Conducted research on outdoor mobile visual SLAM (Simultaneous Localization and Mapping)
-              - Focused on enhancing accruacy and reliability of visual navigation for mobile robots
+              - Focused on enhancing accuracy and reliability of visual navigation for mobile robots
     design:
       columns: '2'
 
