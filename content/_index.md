@@ -156,18 +156,18 @@ sections:
               - Proposed a transformer-based model for detecting collisions in robotic arms without external sensors, relying on joint position and torque controller
 
               ``` ROS 1 / MuJoCo / PyTorch ```
-        - title: Teaching Assistant
-          company: Dept. Software, Gachon University
-          company_url: 'http://gachon.ac.kr/'
+        - title: Student Intern
+          company: Purdue University
+          company_url: 'https://www.purdue.edu/'
           company_logo: purdue
-          location: Seongnam-si, Republic of Korea
-          date_start: '2020-03-02'
-          date_end: '2020-12-23'
+          location: West Lafayette, IN, USA
+          date_start: '2022-04-19'
+          date_end: '2022-08-05'
           description: |2-
-              Subjects include:
+              - Conducted research on outdoor mobile visual SLAM (Simultaneous Localization and Mapping)
+              - Focused on enhancing accuracy and reliability of visual navigation for mobile robots
 
-              * Object-oriented Programming (09805003--4, Spring Sem. 2020.)
-              * Software Implementation Patterns (11494005, Fall Sem. 2020.)
+              ``` Mobile Robot / ROS / ORB-SLAM2 ```
     design:
       columns: '2'
 
