@@ -158,20 +158,6 @@ sections:
               * Robot Programming (SWCON331-00, Fall Sem. 2022.)
               * Web/Python Programming (SWCON104-01, Spring \& Fall Sem. 2023.)
               * Reinforcement Learning (SWCON495-00, Fall Sem. 2024.)
-        - title: Internship Student
-          company: DDS
-          company_url: 'http://www.aegisdds.com/'
-          company_logo: ROBROS
-          location: Geumcheon-gu, Seoul, Republic of Korea
-          date_start: '2020-07-01'
-          date_end: '2020-08-31'
-          description: |2-
-              Responsibilities include:
-
-              * CAD Development Team
-              * 3D Model Visualization
-              
-              ``` C++ / VTK / Linear Algebra / Geometry ```
         - title: Teaching Assistant
           company: Dept. Software, Gachon University
           company_url: 'http://gachon.ac.kr/'
