@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Geunhyeok Yu
+title: Jiwon Park
 
 # # Name pronunciation (optional)
 # name_pronunciation: Geun Hyeok Yu  
 
 # Full name (for SEO)
-first_name: Geunhyeok
-last_name: Yu
+first_name: Jiwon
+last_name: Park
 
 # Status emoji
 status:
@@ -17,35 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+# role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: AIRLab, Kyung Hee University
-    url: http://airlab.khu.ac.kr/
+# organizations:
+#   - name: AIRLab, Kyung Hee University
+#     url: http://airlab.khu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer vision and neural representation learning.
 
 # Interests to show in About widget
 interests:
-  - Computer Vision
-  - Artificial Intelligence
-  - Representation Learning
-  - Model Compression
+  - Robot Perception
+  - Off-road Mobile Robot
+  - Traversable Region Segmentation
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Artificial Intelligence
-      institution: Kyung Hee Univeresity
-      year: "2024 - Present"
-    - course: M.S. in Artificial Intelligence
+    - course: B.S. in Electronic Engineering, Software Convergence (Robot Vision Track)
       institution: Kyung Hee University
-      year: "2022 - 2024"
-    - course: B.S. in Computer Science
-      institution: Gachon University
-      year: "2018 - 2022"
+      year: "2019 - 2024"
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
