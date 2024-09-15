@@ -144,46 +144,18 @@ sections:
               - Developed monitoring applications for robot experiments 
               
               ``` ROS1 / ROS2 / RKNN / gRPC / MQTT / CMake / Flutter  ```
-        - title: Teaching Assistant
-          company: Dept. Software Convergence, Kyung Hee University
-          company_url: 'https://www.khu.ac.kr'
-          company_logo: khu
+        - title: Intern
+          company: ROBROS
+          company_url: 'https://robros.co.kr/'
+          company_logo: ROBROS
           location: Yongin-si, Republic of Korea
-          date_start: '2022-03-02'
-          date_end: ''
+          date_start: '2023-12-23'
+          date_end: '2024-02-29'
           description: |2-
-              Subjects include:
+              - Developed experimental environments for robotic arms using MuJoCo simulation platform
+              - Proposed a transformer-based model for detecting collisions in robotic arms  without external sensors, relying on joint position and torque controllers
 
-              * Operating System (CSE301-01, Spring Sem. 2022.) 
-              * Robot Programming (SWCON331-00, Fall Sem. 2022.)
-              * Web/Python Programming (SWCON104-01, Spring \& Fall Sem. 2023.)
-              * Reinforcement Learning (SWCON495-00, Fall Sem. 2024.)
-        - title: Internship Student
-          company: DDS
-          company_url: 'http://www.aegisdds.com/'
-          company_logo: dds
-          location: Geumcheon-gu, Seoul, Republic of Korea
-          date_start: '2020-07-01'
-          date_end: '2020-08-31'
-          description: |2-
-              Responsibilities include:
-
-              * CAD Development Team
-              * 3D Model Visualization
-              
-              ``` C++ / VTK / Linear Algebra / Geometry ```
-        - title: Teaching Assistant
-          company: Dept. Software, Gachon University
-          company_url: 'http://gachon.ac.kr/'
-          company_logo: gcu
-          location: Seongnam-si, Republic of Korea
-          date_start: '2020-03-02'
-          date_end: '2020-12-23'
-          description: |2-
-              Subjects include:
-
-              * Object-oriented Programming (09805003--4, Spring Sem. 2020.)
-              * Software Implementation Patterns (11494005, Fall Sem. 2020.)
+              ``` ROS 1 / MuJoCo / PyTorch   ```
     design:
       columns: '2'
 
