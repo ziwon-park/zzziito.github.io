@@ -44,14 +44,14 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
 
   - block: collection
     id: projects
@@ -130,20 +130,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Ph.D./M.S. Student Researcher
-          company: AIRLab
-          company_url: 'http://airlab.khu.ac.kr'
-          company_logo: airlab-ai
-          location: Yongin-si, Republic of Korea
-          date_start: '2022-03-02'
-          date_end: ''
+        - title: Intern
+          company: NAVER LABS
+          company_url: 'https://www.naverlabs.com/'
+          company_logo: naverlabs_logo
+          location: Seongnam-si, Republic of Korea
+          date_start: '2024-03-11'
+          date_end: '2024-09-10'
           description: |2-
-              Responsibilities include:
-
-              * Lab. Leader (2023)
-              * M.S. Researcher
+              - Developed software of inference board for robot, enhancing on-board processing capabilities
+              - Implemented deep learning model optimization techniques for low-cost NPUs
+              - Integrated third-party robots into multi-robot control system (ARC)
+              - Developed monitoring applications for robot experiments 
               
-              ``` PyTorch / Deep Learning / Probabilistics / Linear Algebra ```
+              ``` ROS1 / ROS2 / RKNN / gRPC / MQTT / CMake / Flutter  ```
         - title: Teaching Assistant
           company: Dept. Software Convergence, Kyung Hee University
           company_url: 'https://www.khu.ac.kr'
