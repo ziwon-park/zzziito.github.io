@@ -1,5 +1,5 @@
 ---
-title: 'A2XP: Towards Private Domain Generalization'
+title: 'BumpyPatch: Heightmap-based Outdoor Point Cloud Segmentation to Find Less Bumpy Road'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,8 +13,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-06-01T00:00:00Z'
-doi: ''
+date: '2023-12-01T00:00:00Z'
+doi: '10.1109'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-03-01T00:00:00Z'
@@ -25,12 +25,12 @@ publishDate: '2024-03-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
-publication_short: In CVPR 2024
+publication: In IEEE International Conference on Robotic Computing 2023
+publication_short: In IEEE IRC 2023
 
 abstract: |-
- Deep Neural Networks (DNNs) have become pivotal in various fields, especially in computer vision, outperforming previous methodologies. A critical challenge in their deployment is the bias inherent in data across different domains, such as image style and environmental conditions, leading to domain gaps. This necessitates techniques for learning general representations from biased training data, known as domain generalization. This paper presents Attend to eXpert Prompts (A2XP), a novel approach for domain generalization that preserves the privacy and integrity of the network architecture. A2XP consists of two phases: Expert Adaptation and Domain Generalization. In the first phase, prompts for each source domain are optimized to guide the model towards the optimal direction. In the second phase, two embedder networks are trained to effectively amalgamate these expert prompts, aiming for an optimal output. Our extensive experiments demonstrate that A2XP achieves state-of-the-art results over existing non-private domain generalization methods. The experimental results validate that the proposed approach not only tackles the domain generalization challenge in DNNs but also offers a privacy-preserving, efficient solution to the broader field of computer vision.
-
+ Autonomous mobile robots operate in a range of environments, from controlled indoor settings to unpredictable outdoor terrains. These varied conditions present challenges that require advanced navigation systems for their safe and efficient operation. A key component of this navigation is accurately assessing the ground texture. Any misjudgments can jeopardize both the robot's sensitive equipment and its carried cargo. In this research, we propose a novel method that uses heightmaps created by mapping the z -coordinates of 3D LiDAR-derived point cloud data to grayscale pixel values for evaluating outdoor ground textures. This approach effectively converts point cloud data, providing information to assist mobile robots in navigating less bumpy roads in outdoor settings. We present classification techniques for terrains based on the environment's nature: static, which pertains to individual point cloud files representing completed scenes, and dynamic, related to the real-time point cloud data captured by moving robots. For both static and dynamic environments, we introduce tailored heightmap classifiers, incorporating Inertial Measurement Unit (IMU) insights to consider the robot motion influenced by terrain texture. Our proposed method demonstrates superior performance compared to existing methods that analyze the point cloud directly and perform texture analysis with high accuracy in both static and dynamic environments. The code can be downloaded from https://github.com/zzziito/BumpyPatch.
+ 
 # Summary. An optional shortened abstract.
 summary: The paper introduces A2XP, a novel approach for domain generalization, which optimizes prompts for each source domain and combines them for robust performance across domains, while also preserving privacy and integrity of the network architecture. Experimental results demonstrate its state-of-the-art performance in computer vision tasks and its potential for broader applications.
 
