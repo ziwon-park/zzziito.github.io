@@ -144,34 +144,28 @@ sections:
               - Developed monitoring applications for robot experiments 
               
               ``` ROS1 / ROS2 / RKNN / gRPC / MQTT / CMake / Flutter  ```
-        - title: Teaching Assistant
-          company: Dept. Software Convergence, Kyung Hee University
-          company_url: 'https://www.khu.ac.kr'
+        - title: Intern
+          company: ROBROS
+          company_url: 'https://robros.co.kr/'
           company_logo: ROBROS
-          location: Yongin-si, Republic of Korea
+          location: Seoul, Republic of Korea
           date_start: '2022-03-02'
           date_end: ''
           description: |2-
-              Subjects include:
+              - Developed experimental environments for robotic arms using MuJoCo simulation platform
+              - Proposed a transformer-based model for detecting collisions in robotic arms  without external sensors, relying on joint position and torque controllers
 
-              * Operating System (CSE301-01, Spring Sem. 2022.) 
-              * Robot Programming (SWCON331-00, Fall Sem. 2022.)
-              * Web/Python Programming (SWCON104-01, Spring \& Fall Sem. 2023.)
-              * Reinforcement Learning (SWCON495-00, Fall Sem. 2024.)
-        - title: Internship Student
-          company: DDS
-          company_url: 'http://www.aegisdds.com/'
-          company_logo: ROBROS
-          location: Geumcheon-gu, Seoul, Republic of Korea
-          date_start: '2020-07-01'
-          date_end: '2020-08-31'
+              ``` ROS 1 / MuJoCo / PyTorch  ```
+        - title: Student Intern
+          company: Purdue University
+          company_url: 'https://www.purdue.edu/'
+          company_logo: purdue
+          location: West Lafayette, IN, USA
+          date_start: '2022-04-19'
+          date_end: '2022-08-05'
           description: |2-
-              Responsibilities include:
-
-              * CAD Development Team
-              * 3D Model Visualization
-              
-              ``` C++ / VTK / Linear Algebra / Geometry ```
+              - Conducted research on outdoor mobile visual SLAM (Simultaneous Localization and Mapping)
+              - Focused on enhancing accruacy and reliability of visual navigation for mobile robots
     design:
       columns: '2'
 
