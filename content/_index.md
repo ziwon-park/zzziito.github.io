@@ -277,24 +277,24 @@ sections:
       text: ""
         
       # Contact (add or remove contact options as necessary)
-      email: geunhyeok@khu.ac.kr
-      phone: +82) 32 201 5570
+      email: overflow21@khu.ac.kr
+      # phone: +82) 32 201 5570
       # appointment_url: 'https://calendly.com'
-      address:
-        street: 1732 Deogyeong-daero
-        city: Giheung-gu, Yongin-si
-        region: Gyeonggi-do
-        postcode: '17104'
-        country: Republic of Korea
-        country_code: KR
-      directions: Room 443-1, College of Electronics and Information, Kyung Hee University
+      # address:
+      #   street: 1732 Deogyeong-daero
+      #   city: Giheung-gu, Yongin-si
+      #   region: Gyeonggi-do
+      #   postcode: '17104'
+      #   country: Republic of Korea
+      #   country_code: KR
+      # directions: Room 443-1, College of Electronics and Information, Kyung Hee University
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:  
-        latitude: '37.239812' 
-        longitude: '127.083313' 
+      # coordinates:  
+      #   latitude: '37.239812' 
+      #   longitude: '127.083313' 
       # contact_links:
         # - icon: twitter
         #   icon_pack: fab
