@@ -1,6 +1,6 @@
 ---
 title: Development software for inference board 
-summary: Low-cost inference board software for robots, Deep learning model optimization for budget NPUs (Rockchip on Orange Pi), Low-latency communication module for robot-board interaction
+summary: Low-cost inference board software for robots, \n Deep learning model optimization for budget NPUs (Rockchip on Orange Pi), Low-latency communication module for robot-board interaction
 tags:
   - NAVER LABS
   - TEAM Robot Perception
