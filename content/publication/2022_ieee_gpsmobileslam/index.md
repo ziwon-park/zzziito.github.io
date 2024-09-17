@@ -28,7 +28,7 @@ publishDate: '2022-12-05T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE International Conference on Robotic Computing 2022
+publication: IEEE International Conference on Robotic Computing 2022 (CHARMS workshop)
 publication_short: In IEEE IRC 2022 CHARMS workshop
 
 abstract: |-
