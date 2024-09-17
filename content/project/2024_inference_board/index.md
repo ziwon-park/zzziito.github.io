@@ -4,7 +4,7 @@ summary: Low-cost inference board software for robots, Deep learning model optim
 tags:
   - NAVER LABS
   - TEAM Robot Perception
-date: '2024-03-11'
+date: '2024-02-29'
 date_from: 'Mar. 2024'
 date_to: 'Aug. 2024'
 with: 'NAVER LABS'
