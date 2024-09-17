@@ -47,7 +47,6 @@ url_pdf: https://www.mdpi.com/1424-8220/23/12/5525
 # url_dataset: ''
 # url_poster: ''
 url_project: '/project/2024_inference_board'
-url_project: '/project/2024_ARC'
 # url_slides: ''
 # url_source: ''
 # url_video: ''

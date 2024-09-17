@@ -2,8 +2,7 @@
 # Display name
 title: Jiwon Park
 
-# # Name pronunciation (optional)
-# name_pronunciation: Geun Hyeok Yu  
+# # Name pronunciation (optional) 
 
 # Full name (for SEO)
 first_name: Jiwon
