@@ -277,7 +277,7 @@ sections:
       text: ""
         
       # Contact (add or remove contact options as necessary)
-      email: overflow21@khu.ac.kr
+      email: zzziito.park@gmail.com
       # phone: +82) 32 201 5570
       # appointment_url: 'https://calendly.com'
       # address:
