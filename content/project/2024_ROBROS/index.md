@@ -4,7 +4,7 @@ summary: Developed MuJoCo-based simulation environments for robotic arms and pro
 tags:
   - ROBROS
   - Transformer
-date: '2024-03-11'
+date: '2024-02-19'
 date_from: 'Dec. 2023'
 date_to: 'Feb. 2024'
 with: 'ROBROS'

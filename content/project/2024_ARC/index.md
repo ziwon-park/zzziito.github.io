@@ -5,7 +5,7 @@ tags:
   - NAVER LABS
   - TEAM Robot Perception
   - ARC
-date: '2024-03-11'
+date: '2024-09-09'
 date_from: 'Mar. 2024'
 date_to: 'Aug. 2024'
 with: 'NAVER LABS'
