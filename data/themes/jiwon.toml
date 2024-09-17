@@ -1,0 +1,36 @@
+# Theme metadata
+name = "jiwon"
+
+[light]
+  # Primary
+  primary = "#007d4d"
+  link_hover = "#005a38"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#3B2B42"
+  menu_text_active = "#AC7FC2"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(252, 249, 255)"
+
+[dark]
+  # Primary
+  primary = "#c8f0d8"
+  background = "#15440b"
+
+  link = "#c8f0d8"
+  link_hover = "#c8f0d8"
+
+  # Menu
+  menu_primary = "#275223"
+  menu_text = "#c8f0d8"
+  menu_text_active = "#b2e8be"
+  menu_title = "#c8f0d8"
+
+  # Home sections
+  home_section_even = "#184624"
+  home_section_odd = "#184624"
+  
