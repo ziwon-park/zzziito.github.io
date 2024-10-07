@@ -27,10 +27,10 @@ superuser: true
 bio: My research interests include perception for robust off-road mobile robot
 
 # Interests to show in About widget
-interests:
-  - Robot Perception
-  - Off-road Mobile Robot
-  - Traversable Region Segmentation
+# interests:
+#   - Robot Perception
+#   - Off-road Mobile Robot
+#   - Traversable Region Segmentation
 
 # Education to show in About widget
 education:
