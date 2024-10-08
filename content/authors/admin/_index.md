@@ -120,8 +120,7 @@ social:
 highlight_name: true
 ---
 
-Aspiring Robotics Software Engineer specializing in perception for outdoor mobile robots. 
 Recent graduate from **Kyung Hee University** with a dual major in **Electronic Engineering** and **Software Convergence**, Robot Vision Track(August 2024). 
 Gained industry experience through internships at **NAVER LABS** and ROBROS. 
-Passionate about advancing mobile robot perception to create more capable and intelligent autonomous systems.
+
 {style="text-align: justify;"}
