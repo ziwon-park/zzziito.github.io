@@ -26,7 +26,7 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include perception for robust off-road mobile robot
 
-Interests to show in About widget
+# Interests to show in About widget
 interests:
   - Robot Perception
   - Off-road Mobile Robot
