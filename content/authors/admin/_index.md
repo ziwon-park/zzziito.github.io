@@ -26,11 +26,11 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include perception for robust off-road mobile robot
 
-# Interests to show in About widget
-# interests:
-#   - Robot Perception
-#   - Off-road Mobile Robot
-#   - Traversable Region Segmentation
+Interests to show in About widget
+interests:
+  - Robot Perception
+  - Off-road Mobile Robot
+  - Traversable Region Segmentation
 
 # Education to show in About widget
 education:
@@ -120,7 +120,10 @@ social:
 highlight_name: true
 ---
 
+Passionate student specializing in robot perception, with a talent for developing robotic system software. Dedicated to advancing research in robust perception techniques to enhance the reliability of outdoor mobile robots.
+
 Recent graduate from **Kyung Hee University** with a dual major in **Electronic Engineering** and **Software Convergence**, Robot Vision Track(August 2024). 
 Gained industry experience through internships at **NAVER LABS** and ROBROS. 
+
 
 {style="text-align: justify;"}
