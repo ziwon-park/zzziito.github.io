@@ -143,7 +143,7 @@ sections:
               - Integrated third-party robots into multi-robot control system (ARC)
               - Developed monitoring applications for robot experiments 
               
-              ``` PyTorch / Deep Learning / Probabilistics / Linear Algebra ```
+              ``` ROS1 / ROS2 / RKNN / gRPC / MQTT / CMake / Flutter ```
         - title: Intern
           company: ROBROS
           company_url: 'https://robros.co.kr/'
