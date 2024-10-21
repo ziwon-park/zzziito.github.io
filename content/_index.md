@@ -131,6 +131,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Intern
+          company: Urban Robotics Lab @ KAIST
+          company_url: 'https://urobot.kaist.ac.kr/'
+          company_logo: url_logo
+          location: Daejeon, Republic of Korea
+          date_start: '2024-09'
+        - title: Intern
           company: NAVER LABS
           company_url: 'https://www.naverlabs.com/'
           company_logo: naverlabs_logo
