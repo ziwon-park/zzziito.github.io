@@ -135,7 +135,8 @@ sections:
           company_url: 'https://urobot.kaist.ac.kr/'
           company_logo: url_logo
           location: Daejeon, Republic of Korea
-          date_start: '2024-09'
+          date_start: '2024-10-04'
+          date_end: '2024-12-22'
         - title: Intern
           company: NAVER LABS
           company_url: 'https://www.naverlabs.com/'
