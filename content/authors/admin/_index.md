@@ -122,8 +122,8 @@ highlight_name: true
 
 Passionate student specializing in robot perception, with a talent for developing robotic system software. Dedicated to advancing research in robust perception techniques to enhance the reliability of outdoor mobile robots.
 
-Recent graduate from **Kyung Hee University** with a dual major in **Electronic Engineering** and **Software Convergence**, Robot Vision Track(August 2024). 
-Gained industry experience through internships at **NAVER LABS** and ROBROS. 
-
+Recent graduate from Kyung Hee University with a dual major in Electronic Engineering and Software Convergence, Robot Vision Track(August 2024). 
+Gained industry experience through internships at NAVER LABS and ROBROS. 
+Upcoming master's student at Urban Robotics Lab @ KAIST.
 
 {style="text-align: justify;"}

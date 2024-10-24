@@ -18,8 +18,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'AIRLab, Kyung Hee University'
-    description: 'Ph.D. student in artificial intelligence.'
+    # org_name: 'AIRLab, Kyung Hee University'
+    # description: 'Ph.D. student in artificial intelligence.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: 'G-ZT476DT8XZ'
