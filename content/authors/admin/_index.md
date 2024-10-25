@@ -124,6 +124,6 @@ Passionate student specializing in robot perception, with a talent for developin
 
 Recent graduate from Kyung Hee University with a dual major in Electronic Engineering and Software Convergence, Robot Vision Track(August 2024). 
 Gained industry experience through internships at NAVER LABS and ROBROS. 
-Upcoming master's student at Urban Robotics Lab @ KAIST.
+
 
 {style="text-align: justify;"}
