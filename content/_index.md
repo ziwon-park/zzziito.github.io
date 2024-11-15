@@ -284,7 +284,7 @@ sections:
       text: ""
         
       # Contact (add or remove contact options as necessary)
-      email: zzziito.park@gmail.com
+      email: ziwon at kaist.ac.kr
       # phone: +82) 32 201 5570
       # appointment_url: 'https://calendly.com'
       # address:
