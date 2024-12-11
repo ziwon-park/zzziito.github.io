@@ -37,7 +37,7 @@ education:
   courses:
     - course: M.S. in Robotics
       institution: KAIST
-      year: "2025 - 2027"
+      year: "Upcoming student starts from 2025"
     - course: B.S. in Electronic Engineering, Software Convergence (Robot Vision Track)
       institution: Kyung Hee University
       year: "2019 - 2024"
