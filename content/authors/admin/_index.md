@@ -35,6 +35,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: M.S. in Robotics
+      institution: KAIST
+      year: "2025 - 2027"
     - course: B.S. in Electronic Engineering, Software Convergence (Robot Vision Track)
       institution: Kyung Hee University
       year: "2019 - 2024"
