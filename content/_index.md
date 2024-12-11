@@ -175,6 +175,15 @@ sections:
               - Focused on enhancing accuracy and reliability of visual navigation for mobile robots
 
               ``` Mobile Robot / ROS / ORB-SLAM2 ```
+        - title: Student Intern
+          company: AIRLab
+          company_url: 'https://airlab.khu.ac.kr/'
+          company_logo: airlab
+          location: Yongin-si, Republic of Korea
+          date_start: '2021-12-26'
+          date_end: '2022-03-01'
+          description: |2-
+              - Advisor : Professor Hyoseok Hwang
     design:
       columns: '2'
 
