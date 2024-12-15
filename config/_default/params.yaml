@@ -22,9 +22,9 @@ marketing:
     # description: 'Ph.D. student in artificial intelligence.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: 'G-ZT476DT8XZ'
+    google_analytics: 'G-DBL26X1BRP'
     baidu_tongji: ''
-    google_tag_manager: 'GTM-WG6TPKMX'
+    google_tag_manager: ''
     microsoft_clarity: ''
   verification:
     google: ''
@@ -46,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jiwon Park. This work is licensed under {license}'
+    notice: ' Jiwon Park. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
