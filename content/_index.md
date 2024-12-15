@@ -177,7 +177,7 @@ sections:
               ``` Mobile Robot / ROS / ORB-SLAM2 ```
         - title: Student Intern
           company: AIRLab
-          company_url: 'airlab.khu.ac.kr/'
+          company_url: 'airlab.khu.ac.kr'
           company_logo: airlab
           location: Yongin-si, Republic of Korea
           date_start: '2021-12-26'
