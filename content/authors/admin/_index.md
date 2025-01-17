@@ -111,7 +111,7 @@ social:
     link: https://www.linkedin.com/in/zzziito/
   - icon: youtube
     icon_pack: fab
-    link: https://youtube.com/@zzziito
+    link: https://youtube.com/@ziwon-park
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
