@@ -105,7 +105,7 @@ social:
     link: https://scholar.google.com/citations?user=W2br9IoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/zzziito
+    link: https://github.com/ziwon-park
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zzziito/
