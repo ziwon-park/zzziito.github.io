@@ -28,9 +28,9 @@ bio: My research interests include perception for robust off-road mobile robot
 
 # Interests to show in About widget
 interests:
-  - Robot Perception
+  - Traversability-aware Navigation
   - Off-road Mobile Robot
-  - Traversable Region Segmentation
+  - Robot Perception
 
 # Education to show in About widget
 education:

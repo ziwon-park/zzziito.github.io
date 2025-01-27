@@ -130,6 +130,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: M.S. Student Researcher
+          company: Urban Robotics Lab @ KAIST
+          company_url: 'https://urobot.kaist.ac.kr/'
+          company_logo: url_logo
+          location: Daejeon, Republic of Korea
+          date_start: '2025-02-24'
+          date_end: Present
         - title: Intern
           company: Urban Robotics Lab @ KAIST
           company_url: 'https://urobot.kaist.ac.kr/'
