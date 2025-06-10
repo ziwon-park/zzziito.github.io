@@ -1,10 +1,10 @@
 ---
-title: Started internship at NAVER LABS
+title: Won 2nd Place at Quadrupedal Robot Challenge(QRC) @ ICRA2025
 
-event: NAVER LABS internship
+event: ICRA QRC 2025 2nd place
 # event_url: https://example.org
 
-location: Seongnam-si, Republic of Korea
+location: Atlanta, GA, USA
 # address:
 #   street: 1732 Deogyeong-daero
 #   city: Giheung-gu, Yongin-si
@@ -12,13 +12,13 @@ location: Seongnam-si, Republic of Korea
 #   postcode: '17104'
 #   country: Republic of Korea
 
-summary: I started an internship at NAVER LABS, team robot perception. 
-abstract: ''
+summary: Our team DreamCatcher @ KAIST won 2nd place at Quadrupedal Robot Challenge 
+abstract: 'My Role : Global Path Planner'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-11T13:00:00Z'
-date_end: '2024-09-10T15:00:00Z'
+date: '2024-12-11T13:00:00Z'
+date_end: '2025-05-10T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -26,12 +26,12 @@ publishDate: '2024-09-10T00:00:00Z'
 
 authors: ['Jiwon Park']
 tags: 
-- Internship
-- NAVER LABS
-- Robot Software
+- QRC
+- 2025ICRA
+- Autonomous Navigation
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -77,3 +77,4 @@ Click on the **Slides** button above to view the built-in slides feature.
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
+s
