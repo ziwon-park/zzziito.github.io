@@ -137,6 +137,8 @@ sections:
           location: Daejeon, Republic of Korea
           date_start: '2025-02-24'
           date_end: ''
+          description: |2-
+              - Advisor : Professor Hyun Myung
         - title: Intern
           company: Urban Robotics Lab @ KAIST
           company_url: 'https://urobot.kaist.ac.kr/'
