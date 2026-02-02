@@ -62,7 +62,7 @@ image:
 # projects:
 #   - example
 ---
-![QRC Certificate](certificate.png)
+{{< figure src="certificate.png" caption="QRC Certificate" >}}
 
 
 <!-- <iframe width="100%" height="410" src="https://www.youtube.com/embed/19gaVRn-o3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
