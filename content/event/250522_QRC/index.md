@@ -34,7 +34,7 @@ tags:
 featured: true
 
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  filename: certificate.png
   focal_point: Right
 
 # links:
