@@ -13,7 +13,8 @@ location: Vienna, Austria
 #   country: Republic of Korea
 
 #   country: Republic of Korea
-summary: My paper <DreamFlow : Local Navigation beyond Observation via Conditional Flow Matching> has accepted to ICRA'26. 
+summary: "My paper <DreamFlow: Local Navigation beyond Observation via Conditional Flow Matching> has been accepted to ICRA 2026."
+
 # abstract: 'My Role : Global Path Planner'
 
 # Talk start and end times.
