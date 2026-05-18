@@ -296,6 +296,16 @@ sections:
   #   design:
   #     columns: '2'
 
+  - block: markdown
+    id: reviewer
+    content:
+      title: Reviewer
+      text: |-
+        - **2026** — IEEE International Conference on Ubiquitous Robots (**UR**)
+        - **2026** — IEEE Transactions on Field Robotics (**T-FR**)
+    design:
+      columns: '1'
+
   - block: contact
     id: contact
     content:
